@@ -176,11 +176,11 @@ def main():
     user=[]
     os.system('clear')
     print(logo)
-    print('[+] PAKISTAN [92301] [92302] [92305] [92306]')
+    print('[+] PAKISTAN [92301] [92302] [92305] [92306]')	
     print('[+] BANGLADESH [88013] [88017] [88018] [88016]')
     print('[+] INDIAN [918464] [918465] [918406] [917965]')  
-    kode = input('[?] Input Code Pakistan Best: ')
-    limit = int(input('[+] LIMIT(5000)(10000)(50000? '))
+    kode = input('[?] INPUT SIM CODES ➤ ')
+    limit = int(input('[+] LIMIT(5000)(10000)(50000)➤ '))
     for nmbr in range(limit):
 	    nmp = ''.join(random.choice(string.digits) for _ in range(7))
 	    user.append(nmp)
