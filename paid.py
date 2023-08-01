@@ -117,13 +117,13 @@ logo ="""
                           
 
 ⭓──────────•◈•──────────────⭓
-╔══❐TOOLS      RANDOM CLONING V2❐══
-╔══❐VERSION    2.0.0 (V2)          ❐══
-╔══❐AUTHOR    ARIFUL ISLAM JOY  ❐══
-╔══❐GITHUB    TURAG-404           ❐══
-╔══❐FACEBOOK   ALEX JOY          ❐══
+╔══❐TOOLS    ➤ RANDOM CLONING
+╔══❐VERSION  ➤ 2.0.0 (V2)        
+╔══❐AUTHOR   ➤ ARIFUL ISLAM JOY 
+╔══❐GITHUB   ➤ TURAG-404        
+╔══❐FACEBOOK ➤ ALEX JOY     
 ⭓──────────•◈•──────────────⭓
-\033[93;1mFollow my GitHub  ❤️
+\033[93;1mFollow my GitHub
 '\33[1;97mTURN on & off (ARPLANE MODE) before use   
 \033[1;97m==============================================================="""
 
