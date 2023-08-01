@@ -125,7 +125,7 @@ logo ="""
 ⭓──────────•◈•──────────────⭓
 
 \033[93;1m[+] FOUNDER ➤ ALEX-BRAND
-'\33[1;97mTURN on & off (ARPLANE MODE) before use   
+'\33[1;97m[+] IF NO RESULT [ON/OFF] AIRPLANE MODE
 \033[1;97m==============================================================="""
 
 
@@ -176,11 +176,11 @@ def main():
     user=[]
     os.system('clear')
     print(logo)
-    print('PAKISTAN Enter Four Digit Code [92301] [92302] [92305] [92306]')
-    print('BANGLADESH Enter Four Digit Code [88013] [88017] [88018] [88016]')
-    print('INDIAN  Enter Four Digit Code [918464] [918465] [918406] [917965]')  
+    print('[+] PAKISTAN [92301] [92302] [92305] [92306]')
+    print('[+] BANGLADESH [88013] [88017] [88018] [88016]')
+    print('[+] INDIAN [918464] [918465] [918406] [917965]')  
     kode = input('[?] Input Code Pakistan Best: ')
-    limit = int(input('How Many Numbers Do You Want To Add? Simple(5000)(10000)(50000? '))
+    limit = int(input('[+] LIMIT(5000)(10000)(50000? '))
     for nmbr in range(limit):
 	    nmp = ''.join(random.choice(string.digits) for _ in range(7))
 	    user.append(nmp)
