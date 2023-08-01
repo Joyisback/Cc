@@ -123,7 +123,8 @@ logo ="""
 ╔══❐GITHUB   ➤ TURAG-404        
 ╔══❐FACEBOOK ➤ ALEX JOY     
 ⭓──────────•◈•──────────────⭓
-\033[93;1mFollow my GitHub
+
+\033[93;1m[+] FOUNDER ➤ ALEX-BRAND
 '\33[1;97mTURN on & off (ARPLANE MODE) before use   
 \033[1;97m==============================================================="""
 
